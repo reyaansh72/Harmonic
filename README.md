@@ -1,1 +1,1 @@
-# A Open Source HTML Media Player
+# A Open Source HTML Music Player
